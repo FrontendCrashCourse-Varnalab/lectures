@@ -21,3 +21,4 @@ Front-end crash course | Fall 2013 | Varna Lab
 
  - Лектор: [Красимир Цонев](http://krasimirtsonev.com/main/)
  - Видео: [https://vimeo.com/78117048](https://vimeo.com/78117048) (password: varnalab)
+ - Видео (workshop): [http://vimeo.com/78421123](http://vimeo.com/78421123) (password: varnalab)
